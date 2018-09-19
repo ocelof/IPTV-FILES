@@ -14,6 +14,7 @@
   </channel>
   <channel id="ANIMAL PLANET ALTERNATIVO">
     <display-name lang="pt">ANIMAL PLANET ALTERNATIVO</display-name>
+    <icon src="http://www.lineup.tv.br/canais/multitvcidades.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="USA: Animal Planet">
@@ -43,8 +44,49 @@
   </channel>
   <channel id="BAND ALTERNATIVO">
     <display-name lang="pt">BAND ALTERNATIVO</display-name>
-    <icon src="http://www.lineup.tv.br/canais/hsn.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvcidade-manaus.gif" />
     <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND NEWS FULLHD">
+    <display-name lang="pt">BAND NEWS FULLHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND NEWS HD">
+    <display-name lang="pt">BAND NEWS HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="BAND NEWS">
+    <display-name lang="pt">BAND NEWS</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redetv2.gif|http://www.lineup.tv.br/canais/redetv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND NEWS ALTERNATIVO">
+    <display-name lang="pt">BAND NEWS ALTERNATIVO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SPORTS HD">
+    <display-name lang="pt">BAND SPORTS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND SPORTS">
+    <display-name lang="pt">BAND SPORTS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND SPORTS ALTERNATIVO">
+    <display-name lang="pt">BAND SPORTS ALTERNATIVO</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="BIS FULLHD">
+    <display-name lang="pt">BIS FULLHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.hagah.com.br</url>
   </channel>
   <programme start="20180919000400 -0300" stop="20180919010100 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Um Lar para Pets</title>
@@ -711,5 +753,403 @@
     <desc lang="de">Keine Details verfügbar(n)</desc>
     <date>2010</date>
     <country>USA</country>
+  </programme>
+  <programme start="20180919000000 -0300" stop="20180919020000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919020000 -0300" stop="20180919024500 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919024500 -0300" stop="20180919030000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919030000 -0300" stop="20180919033000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Conexão com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919033000 -0300" stop="20180919043000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919043000 -0300" stop="20180919050000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Jornal Terraviva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919050000 -0300" stop="20180919060000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919060000 -0300" stop="20180919074000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919074000 -0300" stop="20180919120000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919140000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919140000 -0300" stop="20180919180000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919180000 -0300" stop="20180919200000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919200000 -0300" stop="20180919203000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919203000 -0300" stop="20180919213000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919213000 -0300" stop="20180919220000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180920000000 -0300" channel="BAND NEWS FULLHD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919000000 -0300" stop="20180919010000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919010000 -0300" stop="20180919020000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919020000 -0300" stop="20180919030000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919030000 -0300" stop="20180919050000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919050000 -0300" stop="20180919053000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919053000 -0300" stop="20180919060000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919060000 -0300" stop="20180919070000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919090000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News 2º Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919090000 -0300" stop="20180919100000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919100000 -0300" stop="20180919120000 -0300" channel="BAND SPORTS">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919140000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919140000 -0300" stop="20180919153000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Mundial de Motocross: Etapa Holanda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919153000 -0300" stop="20180919160000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Auto +</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919160000 -0300" stop="20180919170000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919170000 -0300" stop="20180919173000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919173000 -0300" stop="20180919193000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919193000 -0300" stop="20180919203000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919203000 -0300" stop="20180919213000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Super Motor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919213000 -0300" stop="20180919223000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919223000 -0300" stop="20180919233000 -0300" channel="BAND SPORTS">
+    <title lang="pt">K.O. Arena</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919233000 -0300" stop="20180920000000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919000000 -0300" stop="20180919010000 -0300" channel="BIS HD">
+    <title lang="pt">Download Festival 2017</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919010000 -0300" stop="20180919020000 -0300" channel="BIS HD">
+    <title lang="pt">Rage Against The Machine: Live At Finsbury Park</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919020000 -0300" stop="20180919030000 -0300" channel="BIS HD">
+    <title lang="pt">Janes Addiction Download Festival</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919030000 -0300" stop="20180919040000 -0300" channel="BIS HD">
+    <title lang="pt">Kurt Elling Quintet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919040000 -0300" stop="20180919043000 -0300" channel="BIS HD">
+    <title lang="pt">Audioarena Originals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919043000 -0300" stop="20180919050000 -0300" channel="BIS HD">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Depeche Mode</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919050000 -0300" stop="20180919060000 -0300" channel="BIS HD">
+    <title lang="pt">Rihanna Loud Tour Live At The O2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919060000 -0300" stop="20180919070000 -0300" channel="BIS HD">
+    <title lang="pt">Shakira Live From Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919080000 -0300" channel="BIS HD">
+    <title lang="pt">Hardwell Dj Set</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919080000 -0300" stop="20180919090000 -0300" channel="BIS HD">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919090000 -0300" stop="20180919100000 -0300" channel="BIS HD">
+    <title lang="pt">Kurt Elling Quintet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919100000 -0300" stop="20180919110000 -0300" channel="BIS HD">
+    <title lang="pt">Carole King: Natural Woman</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919110000 -0300" stop="20180919113000 -0300" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919113000 -0300" stop="20180919120000 -0300" channel="BIS HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919125000 -0300" channel="BIS HD">
+    <title lang="pt">Janes Addiction Download Festival</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919125000 -0300" stop="20180919133000 -0300" channel="BIS HD">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919133000 -0300" stop="20180919140000 -0300" channel="BIS HD">
+    <title lang="pt">Audioarena Originals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919140000 -0300" stop="20180919150000 -0300" channel="BIS HD">
+    <title lang="pt">Rihanna Loud Tour Live At The O2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919150000 -0300" stop="20180919160000 -0300" channel="BIS HD">
+    <title lang="pt">Shakira Live From Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919160000 -0300" stop="20180919163000 -0300" channel="BIS HD">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919163000 -0300" stop="20180919170000 -0300" channel="BIS HD">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Kelly Jones</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919170000 -0300" stop="20180919180000 -0300" channel="BIS HD">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919180000 -0300" stop="20180919185500 -0300" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919185500 -0300" stop="20180919192500 -0300" channel="BIS HD">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919192500 -0300" stop="20180919195500 -0300" channel="BIS HD">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919195500 -0300" stop="20180919210000 -0300" channel="BIS HD">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919210000 -0300" stop="20180919213000 -0300" channel="BIS HD">
+    <title lang="pt">Ed Sheeran</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919213000 -0300" stop="20180919233000 -0300" channel="BIS HD">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180919233000 -0300" stop="20180920000000 -0300" channel="BIS HD">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
   </programme>
 </tv>
